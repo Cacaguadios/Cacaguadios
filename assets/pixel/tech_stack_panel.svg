@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
+  <title id="title">Tech stack panel</title>
+  <desc id="desc">A retro terminal style panel listing backend, frontend, database, cloud, automation, and tools.</desc>
+  <rect width="760" height="250" fill="#252525"/>
+  <line x1="16" y1="18" x2="744" y2="18" stroke="#4a4a4a"/>
+  <rect x="16" y="48" width="178" height="30" rx="4" fill="#3a3a3a"/>
+  <text x="28" y="70" fill="#F7C873" font-family="monospace" font-size="22" font-weight="700">&gt; TECH_STACK</text>
+  <line x1="16" y1="88" x2="744" y2="88" stroke="#4a4a4a"/>
+  <rect x="16" y="112" width="728" height="118" rx="4" fill="#171717"/>
+
+  <g font-family="monospace" font-size="16" font-weight="700">
+    <text x="34" y="143" fill="#B6F35C">🧩 BACKEND</text>
+    <text x="170" y="143" fill="#EAF2FF">-&gt; .NET, C#, NestJS, PHP MVC, REST APIs</text>
+
+    <text x="34" y="167" fill="#FF7AB6">🎨 FRONTEND</text>
+    <text x="170" y="167" fill="#EAF2FF">-&gt; Angular, Vue, TypeScript, JavaScript, HTML, CSS</text>
+
+    <text x="34" y="191" fill="#B9A7FF">🗄 DATABASE</text>
+    <text x="170" y="191" fill="#EAF2FF">-&gt; MySQL</text>
+
+    <text x="34" y="215" fill="#C9D6FF">⚙ TOOLS</text>
+    <text x="170" y="215" fill="#EAF2FF">-&gt; Azure, Git, GitHub, VS Code, Visual Studio, Postman</text>
+  </g>
+</svg>

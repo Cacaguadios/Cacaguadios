@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="450" viewBox="0 0 760 450" role="img" aria-labelledby="title desc">
+  <title id="title">Quest log panel</title>
+  <desc id="desc">A retro terminal style quest log with featured projects.</desc>
+  <rect width="760" height="450" fill="#252525"/>
+  <rect x="16" y="16" width="150" height="30" rx="4" fill="#3a3a3a"/>
+  <text x="28" y="38" fill="#F7C873" font-family="monospace" font-size="22" font-weight="700">&gt; QUEST_LOG</text>
+  <line x1="16" y1="58" x2="744" y2="58" stroke="#4a4a4a"/>
+  <rect x="16" y="78" width="728" height="352" rx="4" fill="#171717"/>
+
+  <g font-family="monospace" font-size="15" font-weight="700">
+    <circle cx="42" cy="108" r="8" fill="#00FF41"/>
+    <text x="64" y="113" fill="#EAF2FF">[ACTIVE BUILD]</text>
+    <text x="220" y="113" fill="#EAF2FF">ComponentsCore</text>
+    <text x="34" y="138" fill="#DDE8F8">MISSION</text>
+    <text x="190" y="138" fill="#EAF2FF">E-commerce de componentes de PC con autenticación JWT,</text>
+    <text x="190" y="160" fill="#EAF2FF">catálogo, usuarios y flujo de compra.</text>
+    <text x="34" y="186" fill="#DDE8F8">STACK</text>
+    <text x="190" y="186" fill="#EAF2FF">Angular · NestJS · MySQL · JWT</text>
+
+    <text x="34" y="230" fill="#00FF41">✅</text>
+    <text x="64" y="230" fill="#EAF2FF">[COMPLETED]</text>
+    <text x="220" y="230" fill="#EAF2FF">AppEgresados</text>
+    <text x="34" y="255" fill="#DDE8F8">MISSION</text>
+    <text x="190" y="255" fill="#EAF2FF">Plataforma de seguimiento de egresados y bolsa de trabajo</text>
+    <text x="190" y="277" fill="#EAF2FF">para gestión de información.</text>
+    <text x="34" y="303" fill="#DDE8F8">STACK</text>
+    <text x="190" y="303" fill="#EAF2FF">PHP MVC · MySQL</text>
+
+    <circle cx="42" cy="346" r="8" fill="#FFDD00"/>
+    <text x="64" y="351" fill="#EAF2FF">[LEVELING UP]</text>
+    <text x="220" y="351" fill="#EAF2FF">MathMass</text>
+    <text x="34" y="376" fill="#DDE8F8">MISSION</text>
+    <text x="190" y="376" fill="#EAF2FF">PWA educativa para reforzar matemáticas en primaria.</text>
+    <text x="34" y="402" fill="#DDE8F8">STACK</text>
+    <text x="190" y="402" fill="#EAF2FF">Vue · TypeScript · PWA</text>
+  </g>
+</svg>

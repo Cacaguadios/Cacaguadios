@@ -102,54 +102,25 @@ mejores prácticas para construir productos más sólidos.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,vue,nestjs,ts,js,php,mysql,azure,docker,git,github,vscode,linux&perline=8" alt="Skills" />
+  <br /><br />
+  <img src="./assets/pixel/tech_stack_panel.svg" alt="Tech stack terminal panel" width="100%" />
 </div>
-
-```txt
-🧩 BACKEND     -> .NET, C#, NestJS, PHP MVC, REST APIs
-🎨 FRONTEND    -> Angular, Vue, TypeScript, JavaScript, HTML, CSS
-🗄️ DATABASE    -> MySQL
-☁️ CLOUD       -> Azure
-⚙️ AUTOMATION  -> Power Apps, Power Automate, Power BI
-🛠️ TOOLS       -> Git, GitHub, VS Code, Visual Studio, Postman
-```
 
 ---
 
 ## `> QUEST_LOG`
 
-```txt
-🟢 [ACTIVE BUILD]    ComponentsCore
-MISSION           E-commerce de componentes de PC con autenticación JWT,
-                  catálogo, usuarios y flujo de compra.
-STACK             Angular · NestJS · MySQL · JWT
-
-✅ [COMPLETED]       AppEgresados
-MISSION           Plataforma de seguimiento de egresados y bolsa de trabajo
-                  para gestión de información.
-STACK             PHP MVC · MySQL
-
-🟡 [LEVELING UP]     MathMass
-MISSION           PWA educativa para reforzar matemáticas en primaria con una
-                  experiencia interactiva.
-STACK             Vue · TypeScript · PWA
-
-🟣 [ON DEMAND]       Automatizaciones
-MISSION           Flujos, aplicaciones y dashboards para optimizar procesos
-                  y reportes.
-STACK             Power Platform
-```
+<div align="center">
+  <img src="./assets/pixel/quest_log_panel.svg" alt="Quest log terminal panel" width="100%" />
+</div>
 
 ---
 
 ## `> SIDE_QUESTS`
 
-```txt
-[+] 🧱 Build better backend architecture with .NET and clean APIs
-[+] 🖼️ Create modern interfaces with Angular and Vue
-[+] ⚡ Automate repetitive work with Power Platform
-[+] ☁️ Keep learning cloud workflows with Azure
-[+] 🎧 Stay creative through pixel art, skate, videogames and music
-```
+<div align="center">
+  <img src="./assets/pixel/side_quests_panel.svg" alt="Side quests terminal panel" width="100%" />
+</div>
 
 ---
 

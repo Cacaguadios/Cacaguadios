@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210" role="img" aria-labelledby="title desc">
+  <title id="title">Side quests panel</title>
+  <desc id="desc">A retro terminal style side quests panel.</desc>
+  <rect width="760" height="210" fill="#252525"/>
+  <rect x="16" y="22" width="170" height="30" rx="4" fill="#3a3a3a"/>
+  <text x="28" y="44" fill="#F7C873" font-family="monospace" font-size="22" font-weight="700">&gt; SIDE_QUESTS</text>
+  <line x1="16" y1="64" x2="744" y2="64" stroke="#4a4a4a"/>
+  <rect x="16" y="82" width="728" height="106" rx="4" fill="#171717"/>
+
+  <g font-family="monospace" font-size="16" font-weight="700" fill="#EAF2FF">
+    <text x="34" y="118">[+] 🧱 Build better backend architecture with .NET and clean APIs</text>
+    <text x="34" y="140">[+] 🖼 Create modern interfaces with Angular and Vue</text>
+    <text x="34" y="162">[+] ⚡ Automate repetitive work with Power Platform</text>
+    <text x="34" y="184">[+] 🎧 Stay creative through pixel art, skate, videogames and music</text>
+  </g>
+</svg>
