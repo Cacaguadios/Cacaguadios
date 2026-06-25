@@ -34,9 +34,6 @@
     <g clip-path="url(#typing-line-2)">
       <text x="70" y="198" fill="#FFFFFF" font-size="30" font-weight="700">I'M MAURICIO</text>
     </g>
-    <rect x="306" y="174" width="8" height="30" fill="#FFFFFF">
-      <animate attributeName="opacity" values="1;1;0;0;1" dur="0.8s" begin="3.35s" repeatCount="indefinite"/>
-    </rect>
     <text x="70" y="246" fill="#777777" font-size="12">aka</text>
     <rect x="120" y="227" width="170" height="30" fill="#070707" stroke="#FF2222" stroke-width="2"/>
     <text x="138" y="248" fill="#FF2222" font-size="14" font-weight="700">Cacaguadios</text>
