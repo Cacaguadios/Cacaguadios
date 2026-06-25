@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+  <title id="title">Dev vibe meter</title>
+  <desc id="desc">Progress bars for building, learning, and gaming.</desc>
+  <rect width="760" height="170" fill="#050505"/>
+  <rect x="8" y="8" width="744" height="154" fill="#080808" stroke="#2a2a2a" stroke-width="2"/>
+
+  <text x="26" y="42" fill="#777777" font-family="monospace" font-size="17" font-weight="700" letter-spacing="2">DEV VIBE METER</text>
+
+  <g font-family="monospace" font-size="18" font-weight="700">
+    <text x="26" y="77" fill="#f4f4f4">Building</text>
+    <rect x="140" y="61" width="520" height="14" fill="#111111" stroke="#2a2a2a"/>
+    <rect x="140" y="61" width="442" height="14" fill="#9B5DE5"/>
+    <text x="684" y="76" fill="#9B5DE5">85%</text>
+
+    <text x="26" y="110" fill="#f4f4f4">Learning</text>
+    <rect x="140" y="94" width="520" height="14" fill="#111111" stroke="#2a2a2a"/>
+    <rect x="140" y="94" width="478" height="14" fill="#00FF41"/>
+    <text x="684" y="109" fill="#00FF41">92%</text>
+
+    <text x="26" y="143" fill="#f4f4f4">Gaming</text>
+    <rect x="140" y="127" width="520" height="14" fill="#111111" stroke="#2a2a2a"/>
+    <rect x="140" y="127" width="364" height="14" fill="#FF2222"/>
+    <text x="684" y="142" fill="#FF2222">70%</text>
+  </g>
+</svg>

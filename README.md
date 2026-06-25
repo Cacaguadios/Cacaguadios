@@ -167,12 +167,9 @@ STACK             Power Platform
   </a>
 </div>
 
-```txt
-DEV VIBE METER
-🧪 Building  ████████░░ 85%
-📚 Learning  █████████░ 92%
-🎮 Gaming    ███████░░░ 70%
-```
+<div align="center">
+  <img src="./assets/pixel/dev_vibe_meter.svg" alt="Dev vibe meter with colored progress bars" width="100%" />
+</div>
 
 ---
 
