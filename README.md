@@ -26,9 +26,23 @@
 
 <br /><br />
 
-<img src="./assets/pixel/hero_profile.svg" alt="Arcade profile hero" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=760&lines=FULL+STACK+JR+DEVELOPER;WEB+APPS+%E2%80%A2+APIS+%E2%80%A2+PWAS;BUILDING+PIXEL+PERFECT+QUESTS" alt="Typing SVG" />
+
+<br /><br />
+
+<img src="./assets/pixel/cat_profile.png" alt="Pixel cat coding profile" width="245" />
 
 </div>
+
+```txt
+$ cat README.md
+▌
+WHAT'S UP, I'M MAURICIO 👋
+aka Cacaguadios
+
+Software Developer Jr from México.
+I build web apps, PWAs, APIs and creative projects.
+```
 
 <div align="center">
 
