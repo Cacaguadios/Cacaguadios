@@ -26,6 +26,10 @@
 
 <br /><br />
 
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=760&lines=FULL+STACK+JR+DEVELOPER;WEB+APPS+%E2%80%A2+APIS+%E2%80%A2+PWAS;BUILDING+PIXEL+PERFECT+QUESTS" alt="Typing SVG" />
+
+<br /><br />
+
 <img src="./assets/pixel/cat_profile.png" alt="Pixel cat coding profile" width="245" />
 
 </div>
@@ -42,7 +46,30 @@ I build web apps, PWAs, APIs and creative projects.
 
 <div align="center">
 
-`// coding...` · `México 🇲🇽` · `Junior Dev` · `caffeinated`
+`💻 // coding...` · `📍 México 🇲🇽` · `🕹️ Junior Dev` · `☕ caffeinated`
+
+</div>
+
+---
+
+## `> PLAYER_CARD`
+
+```txt
+┌──────────────────────────────────────────────┐
+│  PLAYER      Mauricio Popoca                 │
+│  AKA         Cacaguadios                     │
+│  CLASS       Software Developer Jr           │
+│  REGION      México                          │
+│  MODE        Build · Learn · Ship · Repeat   │
+└──────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![.NET](https://img.shields.io/badge/.NET-9B5DE5?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=050505)
+![Angular](https://img.shields.io/badge/Angular-FF2222?style=for-the-badge&logo=angular&logoColor=white&labelColor=050505)
+![Vue](https://img.shields.io/badge/Vue-00FF41?style=for-the-badge&logo=vuedotjs&logoColor=050505&labelColor=050505)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=050505)
 
 </div>
 
@@ -51,7 +78,7 @@ I build web apps, PWAs, APIs and creative projects.
 ## `> ABOUT_ME`
 
 ```txt
-// profile.log
+// profile.log 🧠
 Soy desarrollador Full Stack Jr. Me gusta construir interfaces limpias,
 conectar frontend con backend, trabajar con bases de datos y automatizar
 procesos que ahorran tiempo real.
@@ -78,12 +105,12 @@ mejores prácticas para construir productos más sólidos.
 </div>
 
 ```txt
-BACKEND     -> .NET, C#, NestJS, PHP MVC, REST APIs
-FRONTEND    -> Angular, Vue, TypeScript, JavaScript, HTML, CSS
-DATABASE    -> MySQL
-CLOUD       -> Azure
-AUTOMATION  -> Power Apps, Power Automate, Power BI
-TOOLS       -> Git, GitHub, VS Code, Visual Studio, Postman
+🧩 BACKEND     -> .NET, C#, NestJS, PHP MVC, REST APIs
+🎨 FRONTEND    -> Angular, Vue, TypeScript, JavaScript, HTML, CSS
+🗄️ DATABASE    -> MySQL
+☁️ CLOUD       -> Azure
+⚙️ AUTOMATION  -> Power Apps, Power Automate, Power BI
+🛠️ TOOLS       -> Git, GitHub, VS Code, Visual Studio, Postman
 ```
 
 ---
@@ -91,22 +118,22 @@ TOOLS       -> Git, GitHub, VS Code, Visual Studio, Postman
 ## `> QUEST_LOG`
 
 ```txt
-[ACTIVE BUILD]    ComponentsCore
+🟢 [ACTIVE BUILD]    ComponentsCore
 MISSION           E-commerce de componentes de PC con autenticación JWT,
                   catálogo, usuarios y flujo de compra.
 STACK             Angular · NestJS · MySQL · JWT
 
-[COMPLETED]       AppEgresados
+✅ [COMPLETED]       AppEgresados
 MISSION           Plataforma de seguimiento de egresados y bolsa de trabajo
                   para gestión de información.
 STACK             PHP MVC · MySQL
 
-[LEVELING UP]     MathMass
+🟡 [LEVELING UP]     MathMass
 MISSION           PWA educativa para reforzar matemáticas en primaria con una
                   experiencia interactiva.
 STACK             Vue · TypeScript · PWA
 
-[ON DEMAND]       Automatizaciones
+🟣 [ON DEMAND]       Automatizaciones
 MISSION           Flujos, aplicaciones y dashboards para optimizar procesos
                   y reportes.
 STACK             Power Platform
@@ -117,11 +144,11 @@ STACK             Power Platform
 ## `> SIDE_QUESTS`
 
 ```txt
-[+] Build better backend architecture with .NET and clean APIs
-[+] Create modern interfaces with Angular and Vue
-[+] Automate repetitive work with Power Platform
-[+] Keep learning cloud workflows with Azure
-[+] Stay creative through pixel art, skate, videogames and music
+[+] 🧱 Build better backend architecture with .NET and clean APIs
+[+] 🖼️ Create modern interfaces with Angular and Vue
+[+] ⚡ Automate repetitive work with Power Platform
+[+] ☁️ Keep learning cloud workflows with Azure
+[+] 🎧 Stay creative through pixel art, skate, videogames and music
 ```
 
 ---
@@ -142,9 +169,9 @@ STACK             Power Platform
 
 ```txt
 DEV VIBE METER
-Building  ████████░░ 85%
-Learning  █████████░ 92%
-Gaming    ███████░░░ 70%
+🧪 Building  ████████░░ 85%
+📚 Learning  █████████░ 92%
+🎮 Gaming    ███████░░░ 70%
 ```
 
 ---
