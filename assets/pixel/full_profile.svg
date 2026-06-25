@@ -4,12 +4,24 @@
   <defs>
     <clipPath id="typing-line-1">
       <rect x="70" y="128" width="0" height="42">
-        <animate attributeName="width" from="0" to="280" dur="1.35s" begin="0.35s" fill="freeze"/>
+        <animate
+          attributeName="width"
+          values="0;280;280;0;0"
+          keyTimes="0;0.28;0.78;0.9;1"
+          dur="5.5s"
+          begin="0s"
+          repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="typing-line-2">
       <rect x="70" y="168" width="0" height="42">
-        <animate attributeName="width" from="0" to="245" dur="1.55s" begin="1.75s" fill="freeze"/>
+        <animate
+          attributeName="width"
+          values="0;0;245;245;0;0"
+          keyTimes="0;0.30;0.62;0.78;0.9;1"
+          dur="5.5s"
+          begin="0s"
+          repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
