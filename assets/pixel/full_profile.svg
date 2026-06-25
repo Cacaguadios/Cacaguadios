@@ -1,6 +1,18 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1740" viewBox="0 0 760 1740" role="img" aria-labelledby="title desc">
   <title id="title">Cacaguadios GitHub profile</title>
   <desc id="desc">A black retro terminal canvas with profile sections and project information.</desc>
+  <defs>
+    <clipPath id="typing-line-1">
+      <rect x="70" y="128" width="0" height="42">
+        <animate attributeName="width" from="0" to="280" dur="1.35s" begin="0.35s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typing-line-2">
+      <rect x="70" y="168" width="0" height="42">
+        <animate attributeName="width" from="0" to="315" dur="1.55s" begin="1.75s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
   <rect width="760" height="1740" fill="#000000"/>
   <rect x="20" y="20" width="720" height="1660" fill="#050505" stroke="#565656" stroke-width="2"/>
 
@@ -16,8 +28,15 @@
     <text x="70" y="110" fill="#9B5DE5" font-size="12">$</text>
     <text x="95" y="110" fill="#777777" font-size="11">cat README.md</text>
     <rect x="205" y="99" width="8" height="14" fill="#777777"/>
-    <text x="70" y="158" fill="#FFFFFF" font-size="30" font-weight="700">WHAT'S UP,</text>
-    <text x="70" y="198" fill="#FFFFFF" font-size="30" font-weight="700">I'M MAURICIO</text>
+    <g clip-path="url(#typing-line-1)">
+      <text x="70" y="158" fill="#FFFFFF" font-size="30" font-weight="700">WHAT'S UP,</text>
+    </g>
+    <g clip-path="url(#typing-line-2)">
+      <text x="70" y="198" fill="#FFFFFF" font-size="30" font-weight="700">I'M MAURICIO</text>
+    </g>
+    <rect x="362" y="174" width="8" height="30" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="0.8s" begin="3.35s" repeatCount="indefinite"/>
+    </rect>
     <text x="70" y="246" fill="#777777" font-size="12">aka</text>
     <rect x="120" y="227" width="170" height="30" fill="#070707" stroke="#FF2222" stroke-width="2"/>
     <text x="138" y="248" fill="#FF2222" font-size="14" font-weight="700">Cacaguadios</text>
