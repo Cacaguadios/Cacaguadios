@@ -1,6 +1,16 @@
 <div align="center">
 
-<sub>README.md &mdash; cacaguadios/cacaguadios</sub>
+<table>
+  <tr>
+    <td>
+      <sub>
+        🔴 🟡 🟢
+        &nbsp;&nbsp;README.md &mdash; cacaguadios/cacaguadios&nbsp;&nbsp;
+        <code>ONLINE</code>
+      </sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -16,70 +26,107 @@
 
 <br /><br />
 
-<img src="./assets/pixel/cat_profile.png" alt="Pixel cat coding profile" width="240" />
+<img src="./assets/pixel/cat_profile.png" alt="Pixel cat coding profile" width="245" />
 
-<h1>WHAT'S UP, I'M MAURICIO 👋</h1>
+</div>
 
-<p>
-  <strong>aka <span>Cacaguadios</span></strong><br />
-  Software Developer Jr from México.<br />
-  I build web apps, PWAs, APIs and creative projects.
-</p>
+```txt
+$ cat README.md
+▌
+WHAT'S UP, I'M MAURICIO 👋
+aka Cacaguadios
 
-<p>
-  <code>// coding...</code> · <code>México 🇲🇽</code> · <code>Junior Dev</code> · <code>caffeinated</code>
-</p>
+Software Developer Jr from México.
+I build web apps, PWAs, APIs and creative projects.
+```
+
+<div align="center">
+
+`// coding...` · `México 🇲🇽` · `Junior Dev` · `caffeinated`
 
 </div>
 
 ---
 
-### `> ABOUT ME_`
+## `> ABOUT_ME`
 
 ```txt
-Soy desarrollador Full Stack Jr.
-Me gusta construir interfaces limpias, conectar frontend con backend,
-trabajar con bases de datos y automatizar procesos que ahorran tiempo real.
+// profile.log
+Soy desarrollador Full Stack Jr. Me gusta construir interfaces limpias,
+conectar frontend con backend, trabajar con bases de datos y automatizar
+procesos que ahorran tiempo real.
+
+Actualmente estoy reforzando arquitectura, .NET, APIs limpias, cloud y
+mejores prácticas para construir productos más sólidos.
 ```
 
 ```json
 {
-  "interests": [
-    "web dev",
-    "pixel art",
-    "gaming",
-    "skateboarding",
-    "music"
-  ],
-  "coffeePerDay": "████░"
+  "focus": ["web apps", "APIs", "PWAs", "automation", "creative projects"],
+  "interests": ["web dev", "pixel art", "gaming", "skateboarding", "music"],
+  "coffeePerDay": "████░",
+  "status": "leveling up"
 }
 ```
 
-### `> TECH STACK_`
+---
+
+## `> TECH_STACK`
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,vue,nestjs,ts,js,php,mysql,azure,docker,git,github,vscode,linux&perline=8" alt="Skills" />
 </div>
 
-| Area | Tools |
-| --- | --- |
-| Backend | `.NET` · `C#` · `NestJS` · `PHP MVC` · `REST APIs` |
-| Frontend | `Angular` · `Vue` · `TypeScript` · `JavaScript` · `HTML` · `CSS` |
-| Database | `MySQL` |
-| Cloud | `Azure` |
-| Automation | `Power Apps` · `Power Automate` · `Power BI` |
-| Tools | `Git` · `GitHub` · `VS Code` · `Visual Studio` · `Postman` |
+```txt
+BACKEND     -> .NET, C#, NestJS, PHP MVC, REST APIs
+FRONTEND    -> Angular, Vue, TypeScript, JavaScript, HTML, CSS
+DATABASE    -> MySQL
+CLOUD       -> Azure
+AUTOMATION  -> Power Apps, Power Automate, Power BI
+TOOLS       -> Git, GitHub, VS Code, Visual Studio, Postman
+```
 
-### `> FEATURED PROJECTS_`
+---
 
-| Project | Mission | Stack | Status |
-| --- | --- | --- | --- |
-| **ComponentsCore** | E-commerce de componentes de PC con autenticación JWT, catálogo, usuarios y flujo de compra. | `Angular` · `NestJS` · `MySQL` · `JWT` | `Active build` |
-| **AppEgresados** | Plataforma de seguimiento de egresados y bolsa de trabajo para gestión de información. | `PHP MVC` · `MySQL` | `Completed quest` |
-| **MathMass** | PWA educativa para reforzar matemáticas en primaria con una experiencia interactiva. | `Vue` · `TypeScript` · `PWA` | `Leveling up` |
-| **Automatizaciones** | Flujos, aplicaciones y dashboards para optimizar procesos y reportes. | `Power Platform` | `On demand` |
+## `> QUEST_LOG`
 
-### `> CONTACT_`
+```txt
+[ACTIVE BUILD]    ComponentsCore
+MISSION           E-commerce de componentes de PC con autenticación JWT,
+                  catálogo, usuarios y flujo de compra.
+STACK             Angular · NestJS · MySQL · JWT
+
+[COMPLETED]       AppEgresados
+MISSION           Plataforma de seguimiento de egresados y bolsa de trabajo
+                  para gestión de información.
+STACK             PHP MVC · MySQL
+
+[LEVELING UP]     MathMass
+MISSION           PWA educativa para reforzar matemáticas en primaria con una
+                  experiencia interactiva.
+STACK             Vue · TypeScript · PWA
+
+[ON DEMAND]       Automatizaciones
+MISSION           Flujos, aplicaciones y dashboards para optimizar procesos
+                  y reportes.
+STACK             Power Platform
+```
+
+---
+
+## `> SIDE_QUESTS`
+
+```txt
+[+] Build better backend architecture with .NET and clean APIs
+[+] Create modern interfaces with Angular and Vue
+[+] Automate repetitive work with Power Platform
+[+] Keep learning cloud workflows with Azure
+[+] Stay creative through pixel art, skate, videogames and music
+```
+
+---
+
+## `> CONTACT`
 
 <div align="center">
   <a href="https://github.com/Cacaguadios">
@@ -100,7 +147,9 @@ Learning  █████████░ 92%
 Gaming    ███████░░░ 70%
 ```
 
-### `> GITHUB_STATS_`
+---
+
+## `> GITHUB_STATS`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cacaguadios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=9B5DE5&icon_color=00FF41&text_color=f4f4f4" alt="Mauricio Popoca GitHub stats" />
